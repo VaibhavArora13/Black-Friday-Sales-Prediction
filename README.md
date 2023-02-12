@@ -22,6 +22,7 @@ Retailis the sale of goods and services from individuals or businesses to the en
 
 ## Objective:
 I have done EDA in pyMongo and Modelling on pySpark
+
 Objective is to predict Black Friday Sales
 
 ## Conclusion:
