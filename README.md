@@ -18,7 +18,7 @@ Dataset has 537577 rows (transactions) and 12 columns (features) as described be
 10. Purchase: Purchase amount.
 
 ## Problem Statement:
-Retailis the sale of goods and services from individuals or businesses to the end user The retail industry provides consumers with goods and services for their everyday needs In retail one of crucial part is to understand the consumer behavior and make various arrangements for the sales of the company A retail company “ABC Private Limited” wants to understand the customer purchase behavior ( purchase amount) against various products of different categories They have shared purchase summary of various customers for selected high volume products from last month
+Retails the sale of goods and services from individuals or businesses to the end user The retail industry provides consumers with goods and services for their everyday needs In retail one of crucial part is to understand the consumer behavior and make various arrangements for the sales of the company A retail company “ABC Private Limited” wants to understand the customer purchase behavior ( purchase amount) against various products of different categories They have shared purchase summary of various customers for selected high volume products from last month
 
 ## Objective:
 I have done EDA in pyMongo and Modelling on pySpark
